@@ -10,6 +10,8 @@ Neste artigo, abordo:<br>
 * Fetch data com Next.js<br>
 * Dunamic Routes e Data next.js<br>
 * Como customizar o 404 error no Next.js<br>
-* Analise de Build no Next.js e Deploy<br>
+* Analise de Build no Next.js e Deploy<br><br>
 Acesse a branch master para ver os exemplos <br />
-https://medium.com/@ivanilsonmartinsantonio7/introdu%C3%A7%C3%A3o-ao-next-js-44a4b92080fc
+[Artigo completo](https://medium.com/@ivanilsonmartinsantonio7/introdu%C3%A7%C3%A3o-ao-next-js-44a4b92080fc)<br>
+[Meu portfolio](https://ima-antonio.github.io)<br>
+[Branch Master](https://github.com/ima-antonio/nextjs/tree/master)
